@@ -437,6 +437,7 @@ $path: "../images/";
 body {
 }
 .inner-wrap {
+	
 }
 
 // 준비중
@@ -445,6 +446,12 @@ body {
 	height:100vh;
 	justify-content: center;
 	align-items: center;
+	.txt-1{
+		font-size: 20px;
+	}
+	.txt-2{
+		font-size: 25px;
+	}
 }
 
 // 공통 mixin include
