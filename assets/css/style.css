@@ -356,6 +356,13 @@ input {
   outline: none;
 }
 
+.box-ing {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
 .img-holder a {
   padding-top: 100%;
   position: relative;
