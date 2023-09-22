@@ -439,6 +439,14 @@ body {
 .inner-wrap {
 }
 
+// 준비중
+.box-ing{
+	display: flex;
+	height:100vh;
+	justify-content: center;
+	align-items: center;
+}
+
 // 공통 mixin include
 @include imgHolder;
 
