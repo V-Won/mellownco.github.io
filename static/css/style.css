@@ -386,7 +386,7 @@ h3 {
 }
 
 .bar {
-  height: 0.3em;
+  height: 2px;
   width: 90%;
   max-width: 34.7em;
   border-radius: 10px;
@@ -403,6 +403,8 @@ h3 {
   background: #1abb9c;
   animation: load 3s linear infinite;
   animation-delay: 2s;
+  position: relative;
+  top: -1px;
 }
 
 @keyframes load {
